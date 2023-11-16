@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 #myBox{
     background-color: cadetblue;
     width: 100px;
     height: 100px;
     border: 1px solid;
+=======
+#animatedBall{
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;
+>>>>>>> 557587b0dfe99e9f140bf34648f4ab63fba98218
     position: relative;
 }
