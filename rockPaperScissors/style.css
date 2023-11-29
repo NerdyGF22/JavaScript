@@ -1,0 +1,29 @@
+#playerText{
+    color: blue;
+}
+
+#computerText{
+    color: blueviolet;
+}
+
+#resultText{
+    color: red;
+}
+
+.choiceBtn{
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    background-color: gray;
+    color: #820962;
+
+}
+
+#gameContainer{
+    font-family: 'Brush Script MT', cursive;
+    border:  3px solid;
+    border-radius:  25px;
+    padding:  10px;
+    background-color: lightcoral;
+    text-align:  center;
+}
